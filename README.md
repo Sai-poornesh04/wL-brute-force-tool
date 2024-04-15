@@ -17,14 +17,16 @@ usage: python wL-brute-force-tool.py
 
 # target arguments:
 
-  -t , --target     url of the target
-  -u , --username   username of the target (default: admin)
-  -p , --password   password of the target (change -p to --p to use a wordlist)
+  -t , --target    
+  -u , --username   
+  -p , --password   
 
-  --timeout         timed out for requests
-  --thread          numbers of threading multiproccesor (default: 5)
-  --proxy           using a HTTP proxy (ex: http://site.com:8000)
+  --timeout        
+  --thread          
+  --proxy           
 
-Copyright © 2021 Defacer Hurt.id- Powered by Indonesian Darknet
+
+
+copyright @ kavilisaipoornesh
 
   
