@@ -1,3 +1,6 @@
+Only for educational purposes. Please don't misuse the tool.
+
+
 # wL-brute-force-tool
       
 https://github.com/Sai-pooornesh04/wL-brute-force-tool
