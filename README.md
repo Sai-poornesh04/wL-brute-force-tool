@@ -1,25 +1,19 @@
 # wL-brute-force-tool
-
-      .---.        .-----------
-     /     \  __  /    ------
-    / /     \(  )/    -----
-   //////   ' \/ `   ---
-  //// / // : ★★ : ---
- // /   /  /`    '--
-//          //..\   wL Brute Froce Tool™
-       ====UU====UU==========================
-           '//||\`
-             ''``
-https://github.com/
+      
+https://github.com/Sai-pooornesh04/wL-brute-force-tool
 
 
-usage: python wL.py [options]                              
-optional arguments:
+#usage: python wL.py 
+[options]                              
+
+# optional arguments:
+
   -h, --help        show this help message and exit
   -V, --version     show program's version number and exit
   -d, --debug       debugging mode
 
-target arguments:
+# target arguments:
+
   -t , --target     url of the target
   -u , --username   username of the target (default: admin)
   -p , --password   password of the target (change -p to --p to use a wordlist)
