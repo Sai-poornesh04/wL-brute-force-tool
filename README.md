@@ -3,17 +3,17 @@
 https://github.com/Sai-pooornesh04/wL-brute-force-tool
 
 
-# usage: python wL-brute-force-tool.py 
+usage: python wL-brute-force-tool.py 
 [options]                              
 
 # optional arguments:
 
   -h, --help        
-  show this help message and exit
+ 
   -V, --version    
-  show program's version number and exit
+
   -d, --debug       
-  debugging mode
+
 
 # target arguments:
 
